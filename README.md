@@ -1,4 +1,4 @@
-# Namma Utpanna (Our Produce)
+
 
 A Flutter Application for FPO Tumakuru in collaboration with students from IIM Ahemdabad to manage FPOs operations under the guidance of Krishi Vaigyanik Kendra, to help them improve their decision making by enabling easier access to accurate and up-to-date data. 
 

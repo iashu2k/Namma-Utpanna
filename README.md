@@ -18,7 +18,7 @@ OTP login is used for sign in and it can also auto detect incoming OTP.
 
 Features
 - Add Crop
-- View Coomodity
+- View Commodity
 - Demand List
 - Feedback
 - Contact FPO
@@ -93,7 +93,7 @@ Shows split-up of land under FPO community and details about farmers
   Features include
   
   - Updating Demand List
-  - See intrested farmers and confirm their order
+  - See interested farmers and confirm their order
 
 <a href="https://ibb.co/GPgK7Rg"><img src="https://i.ibb.co/PCB7xgB/Screenshot-20210624-195437.png" alt="Screenshot-20210624-195437" border="0" width="300"></a>
 <a href="https://ibb.co/DY7fbq7"><img src="https://i.ibb.co/8bjgBhj/Screenshot-20210624-195856.png" alt="Screenshot-20210624-195856" border="0" width="300"></a>

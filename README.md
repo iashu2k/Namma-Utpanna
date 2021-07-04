@@ -47,7 +47,7 @@ Farmer can show show interest which will be confirmed by FPO later.
 <a href="https://ibb.co/DY7fbq7"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212883777.png" alt="Screenshot-20210624-195856" border="0" width="300"></a>
 <a href="https://ibb.co/93x8qxF"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212897778.png" alt="Screenshot-20210624-195912" border="0" width="300"></a>
 <a href="https://ibb.co/R2vkDfG"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212918326.png" alt="Screenshot-20210624-195924" border="0" width="300"></a>
-
+<a href="https://ibb.co/R2vkDfG"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625213040885.png" alt="Screenshot-20210624-195924" border="0" width="300"></a>
 - Send Feedback & Contact FPO
 
 Send feedback regarding services and contact FPO for valuable inputs.
@@ -98,14 +98,8 @@ Shows split-up of land under FPO community and details about farmers
 <a href="https://ibb.co/GPgK7Rg"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212772531.png" alt="Screenshot-20210624-195437" border="0" width="300"></a>
 <a href="https://ibb.co/DbkdZYw"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212971062.png" alt="Screenshot-20210624-195942" border="0" width="300"></a>
 <a href="https://ibb.co/Xt21Q2H"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212985905.png" alt="Screenshot-20210624-200015" border="0" width="300"></a>
-
 <a href="https://ibb.co/Xt21Q2H"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625213000850.png" alt="Screenshot-20210624-200015" border="0" width="300"></a>
-
 <a href="https://ibb.co/DY7fbq7"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625213029952.png" alt="Screenshot-20210624-195856" border="0" width="300"></a>
-<!--
-<a href="https://ibb.co/93x8qxF"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212897778.png" alt="Screenshot-20210624-195912" border="0" width="300"></a>
-<a href="https://ibb.co/R2vkDfG"><img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212918326.png" alt="Screenshot-20210624-195924" border="0" width="300"></a> -->
-
 
 ### Notifications
 

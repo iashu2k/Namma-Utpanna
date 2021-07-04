@@ -7,7 +7,7 @@ A Flutter Application for FPO Tumakuru in collaboration with students from IIM A
 
 ### Sign In
 
-<img src="https://github.com/iashu2k/Namma-Utpanna/blob/main/images/1625212334145.png" alt="Screenshot-20210624-194555" width="300">
+<img src="Namma-Utpanna/blob/main/images/1625212334145.png" alt="Screenshot-20210624-194555" width="300">
 
 OTP login is used for sign in and it can also auto detect incoming OTP.
 
